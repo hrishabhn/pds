@@ -1,19 +1,5 @@
-# Assignment 1
+# Contents
 
-- [Exercise 1: Print a Greeting](a_1/ex_1.py)
-- [Exercise 2: Basic Arithmetic](a_1/ex_2.py)
-- [Exercise 3: String Manipulation](a_1/ex_3.py)
-- [Exercise 4: Lists](a_1/ex_4.py)
-- [Exercise 5: Dictionaries](a_1/ex_5.py)
-- [Exercise 6: Tuples](a_1/ex_6.py)
-- [Exercise 7: Sets](a_1/ex_7.py)
-- [Exercise 8: Conditional Statements](a_1/ex_8.py)
-- [Exercise 9: For Loop](a_1/ex_9.py)
-- [Exercise 10: While Loop](a_1/ex_10.py)
-- [Exercise 11: Match Statement](a_1/ex_11.py)
-- [Exercise 12: Define a Function](a_1/ex_12.py)
-- [Exercise 13: Function with Return Value](a_1/ex_13.py)
-- [Exercise 14: Function with Default Parameters](a_1/ex_14.py)
-- [Exercise 15: List Comprehension](a_1/ex_15.py)
-- [Exercise 16: Nested Data Structures](a_1/ex_16.py)
-- [Exercise 17: Simple Calculator](a_1/ex_17.py)
+## Assignments
+
+- [Assignment 1](a_1.ipynb)
