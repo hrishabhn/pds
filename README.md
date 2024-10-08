@@ -2,5 +2,29 @@
 
 ## Assignments
 
-- [Assignment 1](a_1.ipynb)
-- [Assignment 2](assignment-2)
+### Assignment 1
+
+- [Exercise 1](a-1/ex-1.ipynb)
+- [Exercise 2](a-1/ex-2.ipynb)
+- [Exercise 3](a-1/ex-3.ipynb)
+- [Exercise 4](a-1/ex-4.ipynb)
+- [Exercise 5](a-1/ex-5.ipynb)
+- [Exercise 6](a-1/ex-6.ipynb)
+- [Exercise 7](a-1/ex-7.ipynb)
+- [Exercise 8](a-1/ex-8.ipynb)
+- [Exercise 9](a-1/ex-9.ipynb)
+- [Exercise 10](a-1/ex-10.ipynb)
+- [Exercise 11](a-1/ex-11.ipynb)
+- [Exercise 12](a-1/ex-12.ipynb)
+- [Exercise 13](a-1/ex-13.ipynb)
+- [Exercise 14](a-1/ex-14.ipynb)
+- [Exercise 15](a-1/ex-15.ipynb)
+- [Exercise 16](a-1/ex-16.ipynb)
+- [Exercise 17](a-1/ex-17.ipynb)
+
+### Assignment 2
+
+- [Exercise 1](a-2/ex-1.ipynb)
+- [Exercise 2](a-2/ex-2.ipynb)
+- [Exercise 3](a-2/ex-3.ipynb)
+- [Exercise 4](a-2/ex-4.ipynb)
