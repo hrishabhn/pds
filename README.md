@@ -1,4 +1,9 @@
-# Contents
+# Python for Data Science - Hrishabh Nadkarni
+
+- This is a repository for all the assignments of the course Python for Data Science by Hrishabh Nadkarni
+- Each assignment is in a separate folder, and each exercise is in a separate Jupyter Notebook file
+- To access the exercises, click on the links below
+- To run the code, download the files and open them in Jupyter Notebook.
 
 ## Assignments
 
