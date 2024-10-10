@@ -33,3 +33,7 @@
 - [Exercise 2](a-2/ex-2.ipynb)
 - [Exercise 3](a-2/ex-3.ipynb)
 - [Exercise 4](a-2/ex-4.ipynb)
+
+### Assignment 3
+
+- [Exercises 1-4](a-3/ex-1-4.ipynb)
