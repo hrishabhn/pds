@@ -41,3 +41,7 @@
 ### Assignment 4
 
 - [Exercises 1-7](a-4/ex-1-7.ipynb)
+
+### Assignment 5
+
+- [Exercises 1-3](a-5/ex-1-3.ipynb)
