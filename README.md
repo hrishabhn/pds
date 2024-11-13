@@ -50,3 +50,7 @@
 
 - [Netflix](a-6/netflix.ipynb)
 - [Titanic](a-6/titanic.ipynb)
+
+### Assignment 7
+
+- [Exercises 1-4](a-7/ex-1-4.ipynb)
