@@ -45,3 +45,8 @@
 ### Assignment 5
 
 - [Exercises 1-3](a-5/ex-1-3.ipynb)
+
+### Assignment 6
+
+- [Netflix](a-6/netflix.ipynb)
+- [Titanic](a-6/titanic.ipynb)
